@@ -1,0 +1,114 @@
+body, table {
+	font:normal 12px Tahoma;
+	color: #737373;
+}
+
+/* SIRIUS */
+.tab-estilo1 th{
+	background:#648EA7;
+	font:bold 11px Tahoma;
+	color:white;
+	padding:3px 5px;
+	text-align:center;
+	border-left:1px solid white;
+}
+.tab-estilo1 td{
+	background:#FDF1CB;
+	font:normal 11px Tahoma;
+	color:#776E51;
+	padding:3px 5px;
+	text-align:center;
+	border-left:1px solid white;
+	border-top:1px solid white;
+}
+
+/*********************************************/
+
+.tab-estilo2{
+	border-bottom:5px solid #648EA7;
+}
+.tab-estilo2 td.titulo{
+	background:#648EA7;
+	font:bold 11px Tahoma;
+	color:white;
+	padding:3px 5px;
+	text-align:center;
+	border-left:1px solid white;
+	border-top:1px solid white;
+}
+.tab-estilo2 th{
+	background:#CEDFE7;
+	font:bold 11px Tahoma;
+	color:#776E51;
+	padding:3px 5px;
+	text-align:center;
+	border-left:1px solid white;
+	border-top:1px solid white;
+	border-bottom:1px solid white;
+}
+.tab-estilo2 td{
+	background:#E4E9ED;
+	font:normal 11px Tahoma;
+	color:#776E51;
+	padding:3px 5px;
+	text-align:center;
+	border-left:1px solid white;
+	border-top:1px solid white;
+}
+.tab-estilo2 .dif td{
+	background:#D4E6D6;
+}
+.tab-estilo2 .total td{
+	background:#FDF1CB;
+	font:normal 11px Tahoma;
+	color:#000;
+	padding:3px 5px;
+	text-align:center;
+	border-left:0px solid white;
+	border-bottom:1px solid white;
+}
+
+/*************************************/
+
+.subtitulos {
+	background-color: #648EA7;
+	padding: 4px;
+	font: bold 13px;
+	color: #fff;
+	border: 1px;	
+	margin-top: 20px;
+}
+
+.secao {
+	padding: 10px;
+	border: 1px solid #648EA7;
+	margin-top: 2px;
+}
+
+input, select {
+	border: 1px solid #ccc;
+	background: #eee;
+	font: bold 12px;
+}
+
+/*.tbl tbem nativa do neio*/
+.tbl td {	
+	background-color:#E2EEE2;
+	padding: 2px;
+	margin: 2px;
+}
+
+.grid_left
+{
+    TEXT-ALIGN: left
+}
+
+.grid_center
+{
+    TEXT-ALIGN: center
+}
+
+.grid_right
+{
+    TEXT-ALIGN: right
+}
