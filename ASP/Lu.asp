@@ -136,7 +136,7 @@ ds_mensagem = Request.QueryString("ds_mensagem")
     <td height="149" colspan="2">&nbsp;</td>
   </tr>
   <tr>
-    <td colspan="2"><!-- #include FILE = "..\inc\menu_principal.asp" --> Servi&ccedil;os
+    <td colspan="2"><!-- #include FILE = "..\inc\menu_principal.asp" --> Servi&ccedil;os SERVI&Ccedil;OS
 </td>
   </tr>
   <tr>
